@@ -1,0 +1,8 @@
+freeipa_client_version: 4.7.0
+server_alias: dmug
+server_hostname: dmug.local.com
+domain: local.com
+realm: LOCAL.COM
+principal_user: admin
+principal_user_password: dima99
+directory_manager_password: dima99
